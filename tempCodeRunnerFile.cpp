@@ -1,6 +1,5 @@
-for(int i=1;i<=n;i++){
-        //     for(int j=1;j>(n-i)+1;j++){
-        //         cout<<" ";
-        //     }
-        //     cout<<endl;
-        // }
+ // void swap(vector<int> &v,int i,int j){
+    //     int temp =v[j];
+    //     v[j]=v[i];
+    //     v[i]=temp;
+    // }
