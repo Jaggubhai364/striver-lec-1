@@ -1,5 +1,3 @@
- // void swap(vector<int> &v,int i,int j){
-    //     int temp =v[j];
-    //     v[j]=v[i];
-    //     v[i]=temp;
-    // }
+for(int m=1;m<=i;m++){
+        //     cout<<"*";
+        // }
